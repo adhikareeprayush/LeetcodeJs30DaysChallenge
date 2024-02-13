@@ -4,6 +4,7 @@ var createHelloWorld = function () {
     }
 }
 
+// Test Cases
 var helloWorld = createHelloWorld();
 console.log(helloWorld()); // "Hello World"
 
